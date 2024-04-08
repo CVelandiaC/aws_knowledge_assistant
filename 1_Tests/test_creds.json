@@ -1,0 +1,4 @@
+{
+    "PINECONE_API_KEY" : "yourkey",
+    "OPENAI_API_KEY" : "yourkey"  
+}
